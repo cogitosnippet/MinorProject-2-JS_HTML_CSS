@@ -13,4 +13,4 @@ Created a function which takes 5 different Parameters:
 <b>5. Thumbnail</b>
 
 
-Using this function different cards are added automatically to the webpage...
+Using this function different cards are added automatically to the webpage::::::::::::
